@@ -32,4 +32,9 @@ body.is-open {
   font-size: 23px;
   padding: 25px;
   color: orange;
+  font-weight: 700;
+  &:hover,
+  &:focus {
+    color: var(--accent-cl);
+  }
 }
