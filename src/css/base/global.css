@@ -27,3 +27,9 @@ body.is-open {
 .accent-text {
   color: var(--accent-cl);
 }
+
+.telegram-link {
+  font-size: 23px;
+  padding: 10px;
+  color: orange;
+}
